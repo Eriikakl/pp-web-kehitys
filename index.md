@@ -1,2 +1,2 @@
 Täältä löytyvät tehtäväpalautukset: 
-- [vko1](vko1.md)
+- [vko1](vko1/index.html)
