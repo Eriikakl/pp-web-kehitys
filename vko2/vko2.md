@@ -1,0 +1,7 @@
+# Jekyll sivusto, Github Actions ja CI/CD-putkisto
+- Jekyll-sivuston automatisointi GitHub Actionsin avulla on tehokas tapa hallita ja julkaista sisältöä. 
+- Ensimmäinen askel on luoda oma työnkulku, mikä tarkoittaa, että repositorion juureen lisätään hakemisto .github/workflows/ ja tiedosto jekyll.yml. Tässä tiedostossa määritellään, kuinka sivusto rakennetaan ja julkaistaan automaattisesti, kun koodiin tehdään muutoksia. 
+- Työnkulussa voidaan määritellä jatkuva integrointi (CI), jossa koodi testataan ja tarkistetaan, sekä jatkuva toimitus (CD), joka mahdollistaa sovelluksen automaattisen käyttöönoton. 
+- Jatkuvan integroinnin (CI) avulla varmistetaan, että kaikki komponentit toimivat yhdessä odotetusti ennen tuotantoon siirtämistä, vähentäen virheiden mahdollisuutta ja parantaen kehityksen laatua.
+- Jatkuva toimitus (CD) mahdollistaa sen, että toimiva sovellus julkaistaan ilman manuaalista väliintuloa, mikä tehostaa kehitys- ja julkaisuprosessia.
+- Yhdistämällä nämä työkalut ja tekniikat voidaan luoda CI/CD-putkisto, joka parantaa web-sovelluksen kehitysprosessia ja käyttäjäkokemusta. Tällaiset automaatiot eivät ainoastaan nopeuta kehitystä, vaan myös lisäävät luotettavuutta ja ennustettavuutta julkaisuprosessiin, mikä on tärkeää nykypäivän nopeasti kehittyvän teknologian takia. CI/CD-putkistot mahdollistavat kehittäjille keskittyä luovaan työhön ilman huolta virheiden korjaamisesta ja manuaalisista julkaisuista.
