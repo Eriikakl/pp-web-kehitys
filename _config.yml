@@ -5,4 +5,4 @@ remote_theme: pages-themes/architect@v0.2.0
 header_pages:
 - vko1/index.html
 - vko2/vko2.md
-
+- vko3/index.html
