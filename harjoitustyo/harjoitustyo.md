@@ -22,7 +22,7 @@ Responsiivisuutta testattu sivustolla *[Am I Responsive?](https://ui.dev/amiresp
 Responsiivisuus kaikkiin kokoihin ihan näppärästi paitsi mobiiliin. Navigaatio muuttuu kuitenkin tabletti- ja mobiilikoossa. 
 ![Näyttökuva 2024-12-15 143337](https://github.com/user-attachments/assets/375a362b-a684-42f1-84bb-8488fcc80ad1)
 
-Responsiivisuutta on testattu myös Chromen ikkunassa ja se toimii kuten pitääkin. Vasemmalla mobiili, oikealla tabletti.
+Responsiivisuutta on testattu myös Chromen ikkunassa ja se toimii kuten pitääkin. Mobiilikoko ja tablettikoko.
 
 ![Näyttökuva 2024-12-15 143519](https://github.com/user-attachments/assets/d2967772-d8fb-47ed-8f36-422a6bcb3a3d)
 ![Näyttökuva 2024-12-15 143533](https://github.com/user-attachments/assets/4a695a84-d811-4518-a574-130f4caa577c)
